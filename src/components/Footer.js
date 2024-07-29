@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Pranesh</h3>
+          <h3>Designed and Developed by Ramamoorthi</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} </h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Pranesh04092003"
+                href="https://github.com/Ramamoorthi04092003"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://x.com/Pranesh04092003"
+                href="https://x.com/Ramamoorthi04092003"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/pranesh-r-v-371b29295/"
+                href="https://www.linkedin.com/in/Ramamoorthi-r-v-371b29295/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/pranesh_unofficial__"
+                href="https://www.instagram.com/Ramamoorthi_unofficial__"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
