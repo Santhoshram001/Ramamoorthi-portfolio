@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Question Paper Management (CRUD)"
-              description="rafted with PHP and SQL, my system orchestrates CRUD operations, enhancing question paper management. It optimizes organization and manipulation of diverse question paper data, ensuring efficiency.
+              title="Scholarship Management System"
+              description="The aim of this project is to computerize the operation of available scholarships within organizations and colleges
 "
             />
           </Col>
